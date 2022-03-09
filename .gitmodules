@@ -1,0 +1,3 @@
+[submodule "BookWithAkey/beautifulhugo"]
+	path = BookWithAkey/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
