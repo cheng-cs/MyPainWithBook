@@ -4,19 +4,6 @@ date: 2022-03-09T21:14:04-05:00
 draft: false
 ---
 
-## cs580-S2022-lab01
-
-### Name
-
-Gary Chen
-### GitHub Account Name
-
-cheng-cs
-
-### Submission Date
-2 March 2022
-
-
 ### About
 
 Describe the software resource and explain its relevance to your topic. Please include the link to the software resource.
