@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My NoteBook</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My NoteBook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestingPost</title>
+      <link>http://example.org/testingpost/</link>
+      <pubDate>Wed, 09 Mar 2022 19:02:32 -0500</pubDate>
+      
+      <guid>http://example.org/testingpost/</guid>
+      <description>isefajfsfjsis</description>
+    </item>
+    
+    <item>
+      <title>Autobiography</title>
+      <link>http://example.org/autobiography/</link>
+      <pubDate>Wed, 09 Mar 2022 18:13:39 -0500</pubDate>
+      
+      <guid>http://example.org/autobiography/</guid>
+      <description>Hello, my name is Gary, I am a computer science student at Allegheny College. Currently I am a Junior who specialize in both Computer science and Econ.</description>
+    </item>
+    
+    <item>
+      <title>Post_March_9</title>
+      <link>http://example.org/post_march_9/</link>
+      <pubDate>Wed, 09 Mar 2022 14:58:28 -0500</pubDate>
+      
+      <guid>http://example.org/post_march_9/</guid>
+      <description>no no no no no no no no no no no no
+no no no no no no
+no no no no no no no no no
+no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+no no no no no no no no no no no no no no no no no no no no nono no no no no no no no no no no nono no no</description>
+    </item>
+    
+  </channel>
+</rss>
