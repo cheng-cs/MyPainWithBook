@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://elegant-jones-46ca36.netlify.app'
 languageCode = 'en-us'
 title = 'My NoteBook'
 theme = 'beautifulhugo'
