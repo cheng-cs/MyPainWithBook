@@ -10,10 +10,10 @@ draft: false
 
 2) Does a gap exists?
  - A gap exists because we are still dealing with invisible viruses. Viruses that cannot be detected by modern means. Hackers are getting smarter, and better. Based on four different research articles and blogs, there is a gap that needs to be filled. 
- - link (https://www.sciencedirect.com/science/article/abs/pii/S0736585321001143#ab005)
- - link (https://link.springer.com/article/10.1007/s40860-020-00120-3)
- - link (ttps://www.proquest.com/trade-journals/united-states-fileless-nearly-invisible-malware/docview/1890555896/se-2?accountid=8268)
- - link(https://www.sciencedirect.com/science/article/pii/S0167404820301462?via%3Dihub)
+ - (https://www.sciencedirect.com/science/article/abs/pii/S0736585321001143#ab005)
+ - (https://link.springer.com/article/10.1007/s40860-020-00120-3)
+ - (ttps://www.proquest.com/trade-journals/united-states-fileless-nearly-invisible-malware/docview/1890555896/se-2?accountid=8268)
+ - (https://www.sciencedirect.com/science/article/pii/S0167404820301462?via%3Dihub)
 
 3) Research questions:
 
@@ -23,9 +23,6 @@ draft: false
 
  - If it is possible, how does it work? How does it spread amoung themselves?
  - what kind of characteristics does it have? 
-
- The next two questions are subquestions. 
-
  - How are modern system missing these invisible viruses?
  My forth question explores the idea of an `invisible` viruses. This question intrest me because we don't know much. As a programmer and a Computer Science person myself, I cannot tell if my system contains an invisible virus. How can you expect someone with no experiance to feel? 
 
